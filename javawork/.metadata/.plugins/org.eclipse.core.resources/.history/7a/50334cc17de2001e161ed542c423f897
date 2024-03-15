@@ -16,7 +16,6 @@ public class Ex3_output {
 		System.out.print(blood + " "); //개행 안함
 		System.out.print(avg);
 		
-		System.out.printf("\n%.2f",avg); 
-		// printf는 jdk 5에서 생김
+		System.out.printf("\n%.2f",avg);
 	}
 }
