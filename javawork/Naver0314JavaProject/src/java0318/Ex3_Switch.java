@@ -1,4 +1,4 @@
-package java0316;
+package java0318;
 
 import java.util.Scanner;
 
