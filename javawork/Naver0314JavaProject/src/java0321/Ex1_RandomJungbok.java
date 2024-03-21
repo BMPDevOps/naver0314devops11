@@ -13,6 +13,7 @@ public class Ex1_RandomJungbok {
 			rand[i] = n;
 			
 			for(int j = 0; j<i; j++) {
+				System.out.println(rand[i] +" "+ rand[j]);
 				if(rand[i] == rand[j]) {
 					i--;
 					continue Loop;
