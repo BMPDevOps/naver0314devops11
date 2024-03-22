@@ -6,7 +6,7 @@ public class Ex9_Array2ChaBinggo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int arr[][] = new int[5][5];
+		int arr[][] = new int[3][3];
 		int binggo = 0;
 		int binggo1 = 0;
 		int sum = 0;
@@ -16,7 +16,7 @@ public class Ex9_Array2ChaBinggo {
 			sum = 0;
 			for(int i = 0; i < arr.length; i++) {
 				for(int j = 0; j <arr.length;j++) {
-					arr[i][j] = (int)(Math.random()*3)+1;
+					arr[i][j] = (int)(Math.random()*45)+1;
 				}
 			}
 			for(int i = 0; i<arr.length;i++) {

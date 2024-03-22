@@ -32,7 +32,6 @@ public class Book199_9 {
 				break;
 			case "4":
 				for(int i =0; i<score.length;i++) {
-					sum += score[i];
 					System.out.println(sum);
 					for(int j = i; j<score.length;j++) {
 						max = Math.max(score[j], score[i]);
