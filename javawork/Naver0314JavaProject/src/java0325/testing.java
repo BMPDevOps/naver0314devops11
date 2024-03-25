@@ -55,6 +55,9 @@ public class testing {
 		
 		ani.show();
 		
+		ani = new Animal2();
+		
+		System.out.println(ani.getClass());
 		
 
 	}
