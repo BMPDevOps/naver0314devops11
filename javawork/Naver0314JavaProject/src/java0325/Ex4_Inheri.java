@@ -25,7 +25,7 @@ public class Ex4_Inheri {
 		
 		AA.setA(20);
 		
-		System.out.println(b.a);
+		//System.out.println(b.a);
 		
 		
 	}

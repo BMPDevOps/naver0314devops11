@@ -30,6 +30,10 @@ class Fruit {
 	};
 }
 
+
+
+
+
 interface Happy{
 	public void insert();
 	public void delete();
