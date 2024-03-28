@@ -5,19 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8607d04-1574-4fad-9bc0-4d5999a6d1c6" name="Changes" comment="3월27일수업">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java0326/Diffrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java0327/Ex1_Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java0327/Ex2_Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java0327/Ex3_SetLotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java0327/Ex4_Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java0327/Ex5_Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java0327/Ex6_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java0327/Ex7_Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java0327/Ex8_MemberList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java0327/MemberDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java0327/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java0327/Ex9_VectorMunje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java0327/StudentDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java0328/Ex1_Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java0328/Ex2_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java0328/Ex3_LambdaForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java0328/Ex4_SwingButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java0328/SwingGibon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java0326/Diffrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java0326/Diffrence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java0327/Ex4_Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java0327/Ex4_Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java0327/Ex8_MemberList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java0327/Ex8_MemberList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java0327/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java0327/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -62,9 +63,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
@@ -79,31 +87,65 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "copyright",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Diffrence.executor": "Run",
     "애플리케이션.Ex16_FileReaderMemo.executor": "Run",
     "애플리케이션.Ex17_ExceptionMunje.executor": "Run",
     "애플리케이션.Ex1_Abstract.executor": "Run",
     "애플리케이션.Ex1_Set.executor": "Run",
+    "애플리케이션.Ex1_Type.executor": "Run",
+    "애플리케이션.Ex2_Lambda.executor": "Run",
     "애플리케이션.Ex2_Set.executor": "Run",
+    "애플리케이션.Ex3_LambdaForEach.executor": "Run",
     "애플리케이션.Ex3_SetLotto.executor": "Run",
     "애플리케이션.Ex4_Inheri.executor": "Run",
     "애플리케이션.Ex4_Map.executor": "Run",
+    "애플리케이션.Ex4_SwingButton.executor": "Run",
     "애플리케이션.Ex5_Stack.executor": "Run",
     "애플리케이션.Ex6_List.executor": "Run",
     "애플리케이션.Ex7_Vector.executor": "Run",
     "애플리케이션.Ex8_MemberList.executor": "Run",
+    "애플리케이션.Ex9_VectorMunje.executor": "Run",
     "애플리케이션.Main.executor": "Run",
+    "애플리케이션.SwingGibon.executor": "Run",
     "애플리케이션.Test.executor": "Run"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="java0327" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="java0328" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java0328" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Ex17_ExceptionMunje" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java0326.Ex17_ExceptionMunje" />
-      <module name="untitled" />
+      <module name="Naver0314JavaProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java0326.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex9_VectorMunje" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java0327.Ex9_VectorMunje" />
+      <module name="Naver0314JavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java0327.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,6 +168,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Ex9_VectorMunje" />
         <item itemvalue="애플리케이션.Ex17_ExceptionMunje" />
       </list>
     </recent_temporary>
@@ -163,7 +206,8 @@
       <workItem from="1711500616266" duration="8000" />
       <workItem from="1711500652510" duration="174000" />
       <workItem from="1711500831851" duration="331000" />
-      <workItem from="1711501253037" duration="22558000" />
+      <workItem from="1711501253037" duration="73670000" />
+      <workItem from="1711585870405" duration="16634000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <option name="closed" value="true" />
@@ -197,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711501359057</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="3월27일수업">
+      <option name="closed" value="true" />
+      <created>1711527159283</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711527159283</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

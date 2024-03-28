@@ -9,7 +9,7 @@ class VectorExample {
 
         // 백터에 요소 추가
         public  void vectorAdd(){
-            for (int i = 0; i < 100000; i++) {
+            for (int i = 0; i < 10000000; i++) {
                 vector.add(i);
             }
             // 백터의 중간에 요소 추가
@@ -20,11 +20,12 @@ class VectorExample {
         }
 }
 
+
 class ArrayListExample {
         ArrayList<Integer> arrayList = new ArrayList<>();
         // ArrayList에 요소 추가
         public void arryAdd() {
-            for (int i = 0; i < 100000; i++) {
+            for (int i = 0; i < 10000000; i++) {
                 arrayList.add(i);
             }
             // ArrayList의 중간에 요소 추가
@@ -39,7 +40,7 @@ class LinkedListExample {
 
         // LinkedList에 요소 추가
         public void linkedListAdd(){
-            for (int i = 0; i < 100000; i++) {
+            for (int i = 0; i < 10000000; i++) {
                 linkedList.add(i);
             }
 
@@ -53,4 +54,14 @@ class LinkedListExample {
 }
 
 public class Diffrence {
+    public static void main(String[] args){
+        ArrayListExample ae = new ArrayListExample();
+        LinkedListExample le = new LinkedListExample();
+        VectorExample ve = new VectorExample();
+
+        ae.arryAdd();
+        le.linkedListAdd();
+        ve.vectorAdd();
+    }
+
 }

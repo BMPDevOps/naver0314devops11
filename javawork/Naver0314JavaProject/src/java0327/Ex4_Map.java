@@ -1,5 +1,6 @@
 package java0327;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
@@ -18,5 +19,7 @@ public class Ex4_Map {
         for(String i : set1){
             System.out.println(i+" "+map1.get(i));
         }
+        int []a  = {100,20,123,123455,1223};
+
     }
 }

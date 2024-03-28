@@ -38,7 +38,7 @@ public class Test {
 
         Box<Integer> b = new Box<>();
 
-        b.setItem(100);
+        //b.setItem("b");
 
         int a = b.getItem();
 

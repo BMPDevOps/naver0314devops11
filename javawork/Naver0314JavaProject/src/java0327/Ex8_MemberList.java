@@ -90,6 +90,7 @@ public class Ex8_MemberList {
     }
     public void deleteMember(){
         String name = sc.nextLine();
+
         boolean eq = true;
         int i = 0;
         for (MemberDto dto : list){
@@ -105,7 +106,7 @@ public class Ex8_MemberList {
     public void listMember(){
 
     }
-
+//throw
     public void writeMember(){
         for(int i = 0; i<list.size();i++){
             MemberDto dto = list.get(i);
