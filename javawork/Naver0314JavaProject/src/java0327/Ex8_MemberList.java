@@ -10,6 +10,7 @@ import java.util.Scanner;
 
 public class Ex8_MemberList {
     List<MemberDto> list = new ArrayList<>();
+
     Scanner sc = new Scanner(System.in);
 
     static final String FILENAME="/Users/macbm/Desktop/naver0314/Member.txt";

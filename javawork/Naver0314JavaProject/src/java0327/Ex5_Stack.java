@@ -9,7 +9,7 @@ public class Ex5_Stack {
         stack1.push("사과");
         stack1.push("사과");
         stack1.push("사과");
-        stack1.push("사과");
+        stack1.push("오렌지");
         stack1.push("딸기");
 
         System.out.println(stack1.size());

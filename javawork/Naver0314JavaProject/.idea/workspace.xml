@@ -4,20 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8607d04-1574-4fad-9bc0-4d5999a6d1c6" name="Changes" comment="3월27일수업">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java0327/Ex9_VectorMunje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java0327/StudentDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java0328/Ex1_Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java0328/Ex2_Lambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java0328/Ex3_LambdaForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java0328/Ex4_SwingButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java0328/SwingGibon.java" afterDir="false" />
+    <list default="true" id="a8607d04-1574-4fad-9bc0-4d5999a6d1c6" name="Changes" comment="3월28일수업">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java0326/Diffrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java0326/Diffrence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java0327/Ex4_Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java0327/Ex4_Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Naver0314JavaProject/production/Naver0314JavaProject/java0327/Ex1_Set.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Naver0314JavaProject/production/Naver0314JavaProject/java0327/Ex1_Set.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Naver0314JavaProject/production/Naver0314JavaProject/java0327/Ex5_Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Naver0314JavaProject/production/Naver0314JavaProject/java0327/Ex5_Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Naver0314JavaProject/production/Naver0314JavaProject/java0327/Ex6_List.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Naver0314JavaProject/production/Naver0314JavaProject/java0327/Ex6_List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Naver0314JavaProject/production/Naver0314JavaProject/java0327/Ex8_MemberList.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Naver0314JavaProject/production/Naver0314JavaProject/java0327/Ex8_MemberList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Naver0314JavaProject/production/Naver0314JavaProject/java0327/Ex9_VectorMunje.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Naver0314JavaProject/production/Naver0314JavaProject/java0327/Ex9_VectorMunje.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java0327/Ex1_Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java0327/Ex1_Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java0327/Ex5_Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java0327/Ex5_Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java0327/Ex6_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java0327/Ex6_List.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java0327/Ex8_MemberList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java0327/Ex8_MemberList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java0327/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java0327/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +84,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "copyright",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.Diffrence.executor": "Run",
     "애플리케이션.Ex16_FileReaderMemo.executor": "Run",
@@ -126,7 +123,7 @@
       <recent name="java0328" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="애플리케이션.Ex9_VectorMunje">
     <configuration name="Ex17_ExceptionMunje" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java0326.Ex17_ExceptionMunje" />
       <module name="Naver0314JavaProject" />
@@ -207,7 +204,14 @@
       <workItem from="1711500652510" duration="174000" />
       <workItem from="1711500831851" duration="331000" />
       <workItem from="1711501253037" duration="73670000" />
-      <workItem from="1711585870405" duration="16634000" />
+      <workItem from="1711585870405" duration="18102000" />
+      <workItem from="1711613469817" duration="36000" />
+      <workItem from="1711614159300" duration="318000" />
+      <workItem from="1711620944857" duration="2893000" />
+      <workItem from="1711625948470" duration="2939000" />
+      <workItem from="1711671642151" duration="776000" />
+      <workItem from="1711672640551" duration="601000" />
+      <workItem from="1711683207970" duration="488000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <option name="closed" value="true" />
@@ -249,7 +253,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711527159283</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="3월28일수업">
+      <option name="closed" value="true" />
+      <created>1711611141407</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711611141407</updated>
+    </task>
+    <task id="LOCAL-00007" summary="3월28일수업">
+      <option name="closed" value="true" />
+      <created>1711611153490</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711611153490</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,7 +279,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Changes" />
     <MESSAGE value="3월27일수업" />
-    <option name="LAST_COMMIT_MESSAGE" value="3월27일수업" />
+    <MESSAGE value="3월28일수업" />
+    <option name="LAST_COMMIT_MESSAGE" value="3월28일수업" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

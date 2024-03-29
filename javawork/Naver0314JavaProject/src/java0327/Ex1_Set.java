@@ -9,7 +9,6 @@ public class Ex1_Set {
     public static void main(String[] args){
         Set<Integer> set1 = new HashSet<>();
 
-        set1 = new TreeSet<>();
         set1.add(100);
         set1.add(78);
         set1.add(100);
